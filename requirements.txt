@@ -1,0 +1,13 @@
+torch
+ultralytics
+transformers
+cv2
+requests
+ibm-cos-sdk
+flask
+numpy
+Flask-SocketIO
+Flask-Caching
+firebase-admin
+flask-cors
+google-cloud-firestore
