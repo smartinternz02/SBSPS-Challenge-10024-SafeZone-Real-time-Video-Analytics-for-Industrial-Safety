@@ -1,4 +1,9 @@
 
+# Project Title
+
+A brief description of what this project does and who it's for
+
+
 # SafetyNet
 <div align="center">
   <p>
@@ -87,4 +92,4 @@ Recall, in the context of object detection, is another important metric that eva
 
 ## Outputs
 ### 1. Safety Gear Recognition: 
-![Imgur](https://i.imgur.com/f9vQJzvl.gif)
+![outputgif](https://github.com/smartinternz02/SBSPS-Challenge-10024-SafeZone-Real-time-Video-Analytics-for-Industrial-Safety/blob/main/images/output.gif?raw=true)
