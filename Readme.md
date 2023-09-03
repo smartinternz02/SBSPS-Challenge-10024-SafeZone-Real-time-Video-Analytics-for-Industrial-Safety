@@ -61,7 +61,7 @@ Follow these steps to get started with the project:
 ### 1. Class labels:
     [Hardhat, Mask, NO-Hardhat, NO-Mask, NO-Safety Vest, Person, Safety Cone,
     Safety Vest, machinery, vehicle]
-The model that was used in order to train this model was the **yolov8l** model that consists of 268 layers and 43668288 parameters. The model needs approximately 165 GFLOPS of compute power to run.
+The model that was used in order to train this model was the **yolov8l** model that consists of 268 layers and 43,668,288 parameters. The model needs approximately 165 GFLOPS of compute power to run.
 The model was trained on a custom dataset with the aforementioned classes and the hardware that was required to train that model was: **2x Nvidia Tesla T4 GPUs with 16gb VRAM each, 30GB of RAM and 4v CPU compute Engine.**
 
 The model was trained for **310 epochs** and took a total amount of time of nearly **36 hrs** to train completely.
