@@ -1,9 +1,4 @@
 
-# Project Title
-
-A brief description of what this project does and who it's for
-
-
 # SafetyNet
 <div align="center">
   <p>
@@ -93,3 +88,6 @@ Recall, in the context of object detection, is another important metric that eva
 ## Outputs
 ### 1. Safety Gear Recognition: 
 ![outputgif](https://github.com/smartinternz02/SBSPS-Challenge-10024-SafeZone-Real-time-Video-Analytics-for-Industrial-Safety/blob/main/images/output.gif?raw=true)
+
+### 2. Emergency Hand Gesture Detection:
+![output2](https://github.com/smartinternz02/SBSPS-Challenge-10024-SafeZone-Real-time-Video-Analytics-for-Industrial-Safety/blob/main/images/2cb45385-63c5-4336-8bd8-7157e799c460.jpeg?raw=true)
