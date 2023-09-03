@@ -2,7 +2,7 @@
 # SafetyNet
 <div align="center">
   <p>
-      <img width="50%" src="./images/logo.png?raw=true">
+      <img width="50%" src="images/logo.png">
   </p>
 </div>
 Industrial Safety is essential for promoting worker safety, preventing accidents, ensuring compliance, and enhancing overall operational efficiency in industrial environments. This project aims to develop a real-time video analytics tool that enhances industrial safety by detecting and preventing potential hazards and unsafe situations in industrial environments.
