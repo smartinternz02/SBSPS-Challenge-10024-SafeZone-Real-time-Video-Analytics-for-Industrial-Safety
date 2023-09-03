@@ -47,6 +47,7 @@ Follow these steps to get started with the project:
 3. Start the application:
 
    ```bash
+     cd flask_api
      python app.py
      ```
    
