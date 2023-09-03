@@ -22,8 +22,10 @@ The objective of this project is to leverage Deep Learning techniques to monitor
 - OpenCV
 - Tensorflow
 - YOLO (You Only Look Once) v8
-- Flask (for web interface)
-- React
+- Flask (APIs and Back-end)
+- React (Web-Application / Front-end
+- Firebase - Firestore (NoSQL Database)
+- RaspberryPi (Sensor Integration)
 
 ## Features
 
