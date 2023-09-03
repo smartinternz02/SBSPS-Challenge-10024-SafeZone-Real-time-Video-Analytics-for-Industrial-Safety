@@ -67,17 +67,24 @@ The model was trained on a custom dataset with the aforementioned classes and th
 The model was trained for **310 epochs** and took a total amount of time of nearly **36 hrs** to train completely.
 ### 2. Model Metrics:
 #### a. mAP50 (B): 
+The mAP50 B is the Mean Absolute Precision where it measures the Average Precision of detections that have at least a 50% overlap with ground truth objects while excluding those overlapping with the background.
 ![mAP50(B)](https://github.com/smartinternz02/SBSPS-Challenge-10024-SafeZone-Real-time-Video-Analytics-for-Industrial-Safety/blob/main/images/Screenshot%20from%202023-09-03%2015-24-39.png?raw=true) 
 #### b. mAP_0.5: 
+The mAP_0.5 is the same as the previous one but in contrast, mAP_0.5 calculates Average Precision based on detections with an Intersection over Union (IoU) of 0.5 or higher with ground truth objects.
 ![mAP_0.5](https://github.com/smartinternz02/SBSPS-Challenge-10024-SafeZone-Real-time-Video-Analytics-for-Industrial-Safety/blob/main/images/Screenshot%20from%202023-09-03%2015-27-09.png?raw=true) 
 #### c. Precision:
+Precision in object detection is a metric that assesses the accuracy of a model's detections. It measures the ratio of correctly predicted positive detections to the total number of positive predictions made by the model. In the context of object detection, a "positive detection" refers to a bounding box or region proposed by the model that correctly corresponds to an actual object in the scene.
 ![mAP_0.5](https://github.com/smartinternz02/SBSPS-Challenge-10024-SafeZone-Real-time-Video-Analytics-for-Industrial-Safety/blob/main/images/Screenshot%20from%202023-09-03%2015-29-52.png?raw=true)
 #### d. Recall:
+Recall, in the context of object detection, is another important metric that evaluates the completeness of a model's detections. It measures the ratio of correctly predicted positive detections to the total number of actual positive objects present in the scene.
 ![mAP_0.5](https://github.com/smartinternz02/SBSPS-Challenge-10024-SafeZone-Real-time-Video-Analytics-for-Industrial-Safety/blob/main/images/Screenshot%20from%202023-09-03%2015-31-06.png?raw=true)
-
 
 ## Usage
 - Upload industrial video data for analysis.
 - The system will analyze the video in real-time, detecting potential hazards.
 - The dashboard provides real-time statistics on safety incidents.
 - When a hazard is detected, the system triggers alerts and interventions as needed.
+
+## Outputs
+### 1. Safety Gear Recognition: 
+![Imgur](https://i.imgur.com/f9vQJzvl.gif)
