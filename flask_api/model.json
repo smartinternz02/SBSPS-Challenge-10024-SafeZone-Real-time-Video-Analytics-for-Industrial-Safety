@@ -1,0 +1,76 @@
+[{
+    "api-endpoint" : "/sensor",
+    "api-method" : "POST",
+    "body" : {
+        "sensor_id" : "K4A6C7jaAiCwcQgg1LMv",
+        "reading" : true,
+        "timestamp" : {
+            "year" : 2023,
+            "month" : 8,
+            "day" : 31,
+            "hour" : 5,
+            "minute" : 40,
+            "second" : 0
+        }
+    }
+},
+{
+    "api-endpoint" : "/firealert",
+    "api-method" : "POST",
+    "body" : {
+        "camera_id" : "K4A6C7jaAiCwcQgg1LMv",
+        "video-link" : "<link>",
+        "timestamp" : {
+            "year" : 2023,
+            "month" : 8,
+            "day" : 31,
+            "hour" : 5,
+            "minute" : 40,
+            "second" : 0
+        }
+    }
+},
+{
+    "api-endpoint" : "/handgesture",
+    "api-method" : "POST",
+    "body" : {
+        "camera_id" : "K4A6C7jaAiCwcQgg1LMv",
+        "video-link" : "<link>",
+        "timestamp" : {
+            "year" : 2023,
+            "month" : 8,
+            "day" : 31,
+            "hour" : 5,
+            "minute" : 40,
+            "second" : 0
+        }
+    }
+},
+{
+    "api-endpoint" : "/safetygear",
+    "api-method" : "POST",
+    "body" : {
+        "camera_id" : "K4A6C7jaAiCwcQgg1LMv",
+        "data" : {
+            "hard-hat" : 0,
+            "no-hard-hat" : 2,
+            "safety-vest" : 1,
+            "no-safety-vest" : 1,
+            "mask" : 0,
+            "no-mask" : 2
+        },
+        "timestamp" : {
+            "year" : 2023,
+            "month" : 8,
+            "day" : 31,
+            "hour" : 5,
+            "minute" : 40,
+            "second" : 0
+        }
+    }
+}, 
+{
+    "api-endpoint" : "/get-safetygear?camera_id=K4A6C7jaAiCwcQgg1LMv",
+    "api-method" : "GET"
+ }
+]
