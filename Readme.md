@@ -73,17 +73,16 @@ The model was trained for **310 epochs** and took a total amount of time of near
 ### 2. Model Metrics:
 #### a. mAP50 (B): 
 The mAP50 B is the Mean Absolute Precision where it measures the Average Precision of detections that have at least a 50% overlap with ground truth objects while excluding those overlapping with the background.
-![mAP50(B)](https://github.com/smartinternz02/SBSPS-Challenge-10024-SafeZone-Real-time-Video-Analytics-for-Industrial-Safety/blob/main/images/Screenshot%20from%202023-09-03%2015-24-39.png?raw=true) 
+![Screenshot from 2023-09-03 15-24-39](https://github.com/smartinternz02/SBSPS-Challenge-10024-SafeZone-Real-time-Video-Analytics-for-Industrial-Safety/assets/79623853/bb479f2b-5d73-4feb-9c57-0f077a78ac54)
 #### b. mAP_0.5: 
 The mAP_0.5 is the same as the previous one but in contrast, mAP_0.5 calculates Average Precision based on detections with an Intersection over Union (IoU) of 0.5 or higher with ground truth objects.
-![mAP_0.5](https://github.com/smartinternz02/SBSPS-Challenge-10024-SafeZone-Real-time-Video-Analytics-for-Industrial-Safety/blob/main/images/Screenshot%20from%202023-09-03%2015-27-09.png?raw=true) 
+![Screenshot from 2023-09-03 15-27-09](https://github.com/smartinternz02/SBSPS-Challenge-10024-SafeZone-Real-time-Video-Analytics-for-Industrial-Safety/assets/79623853/26fb61a3-26d3-47c3-9ee5-cfaa7558d12f)
 #### c. Precision:
 Precision in object detection is a metric that assesses the accuracy of a model's detections. It measures the ratio of correctly predicted positive detections to the total number of positive predictions made by the model. In the context of object detection, a "positive detection" refers to a bounding box or region proposed by the model that correctly corresponds to an actual object in the scene.
-![mAP_0.5](https://github.com/smartinternz02/SBSPS-Challenge-10024-SafeZone-Real-time-Video-Analytics-for-Industrial-Safety/blob/main/images/Screenshot%20from%202023-09-03%2015-29-52.png?raw=true)
+![Screenshot from 2023-09-03 15-29-52](https://github.com/smartinternz02/SBSPS-Challenge-10024-SafeZone-Real-time-Video-Analytics-for-Industrial-Safety/assets/79623853/3c860263-adca-45c6-9bee-e8ad0f5ea24f)
 #### d. Recall:
 Recall, in the context of object detection, is another important metric that evaluates the completeness of a model's detections. It measures the ratio of correctly predicted positive detections to the total number of actual positive objects present in the scene.
-![mAP_0.5](https://github.com/smartinternz02/SBSPS-Challenge-10024-SafeZone-Real-time-Video-Analytics-for-Industrial-Safety/blob/main/images/Screenshot%20from%202023-09-03%2015-31-06.png?raw=true)
-
+![Screenshot from 2023-09-03 15-31-06](https://github.com/smartinternz02/SBSPS-Challenge-10024-SafeZone-Real-time-Video-Analytics-for-Industrial-Safety/assets/79623853/b2dfbb69-57dd-4e88-8877-86c90c32cb34)
 ## Usage
 - Upload industrial video data for analysis.
 - The system will analyze the video in real-time, detecting potential hazards.
