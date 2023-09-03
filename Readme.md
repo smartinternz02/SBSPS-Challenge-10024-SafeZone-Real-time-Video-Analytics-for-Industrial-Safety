@@ -2,7 +2,8 @@
 # SafetyNet
 <div align="center">
   <p>
-      <img width="50%" src="images/logo.png">
+      <img width="50%" src=![logo](https://github.com/smartinternz02/SBSPS-Challenge-10024-SafeZone-Real-time-Video-Analytics-for-Industrial-Safety/assets/79623853/18baa62f-4474-4e93-b141-e1bc3681f911)
+>
   </p>
 </div>
 Industrial Safety is essential for promoting worker safety, preventing accidents, ensuring compliance, and enhancing overall operational efficiency in industrial environments. This project aims to develop a real-time video analytics tool that enhances industrial safety by detecting and preventing potential hazards and unsafe situations in industrial environments.
