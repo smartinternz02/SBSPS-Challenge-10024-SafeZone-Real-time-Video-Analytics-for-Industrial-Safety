@@ -1,5 +1,7 @@
 <div align="center">
-# SafetyNet 
+  # SafetyNet
+</div>
+<div align="center">
   <p>
       <img width="50%" src="https://github.com/smartinternz02/SBSPS-Challenge-10024-SafeZone-Real-time-Video-Analytics-for-Industrial-Safety/blob/main/images/logo.png?raw=true"></a>
   </p>
