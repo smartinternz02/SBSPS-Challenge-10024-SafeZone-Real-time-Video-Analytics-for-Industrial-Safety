@@ -66,6 +66,7 @@ Follow these steps to get started with the project:
 
      ```bash
      cd frontend
+     npm i -S react-scripts
      npm start
      ```
 
