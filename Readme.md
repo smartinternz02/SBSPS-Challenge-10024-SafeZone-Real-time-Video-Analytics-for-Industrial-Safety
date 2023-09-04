@@ -98,3 +98,44 @@ Recall, in the context of object detection, is another important metric that eva
 
 ### 2. Emergency Hand Gesture Detection:
 ![output2](https://github.com/smartinternz02/SBSPS-Challenge-10024-SafeZone-Real-time-Video-Analytics-for-Industrial-Safety/blob/main/images/2cb45385-63c5-4336-8bd8-7157e799c460.jpeg?raw=true)
+
+## Implementation Screenshots
+### Introduction
+![1](https://github.com/smartinternz02/SBSPS-Challenge-10024-SafeZone-Real-time-Video-Analytics-for-Industrial-Safety/assets/73399290/7a82fb5f-9a43-4ea5-ad3e-e3b75885b154)
+![2](https://github.com/smartinternz02/SBSPS-Challenge-10024-SafeZone-Real-time-Video-Analytics-for-Industrial-Safety/assets/73399290/b897bc1f-2f63-4409-8a57-586f04080b57)
+![3](https://github.com/smartinternz02/SBSPS-Challenge-10024-SafeZone-Real-time-Video-Analytics-for-Industrial-Safety/assets/73399290/67b63912-ba01-479a-ab54-abac35e8404e)
+![4](https://github.com/smartinternz02/SBSPS-Challenge-10024-SafeZone-Real-time-Video-Analytics-for-Industrial-Safety/assets/73399290/9f77bf88-68cd-4315-b1b0-1426b8babd40)
+## Login for Admins & Managers
+![5](https://github.com/smartinternz02/SBSPS-Challenge-10024-SafeZone-Real-time-Video-Analytics-for-Industrial-Safety/assets/73399290/3a2e211f-8eda-4236-b668-4bedf916a0dd)
+![6](https://github.com/smartinternz02/SBSPS-Challenge-10024-SafeZone-Real-time-Video-Analytics-for-Industrial-Safety/assets/73399290/371c6b2e-0e84-40cb-b441-f697ff238b48)
+## Admin Dashboard
+<p>
+  It consists of Organization wide data, i.e. data collected from all the factories / industrial sites are crunched together for the admin of the organization to observe.
+</p>
+
+![7](https://github.com/smartinternz02/SBSPS-Challenge-10024-SafeZone-Real-time-Video-Analytics-for-Industrial-Safety/assets/73399290/584d61f8-bcc3-418a-8412-ab9723a8727c)
+![8](https://github.com/smartinternz02/SBSPS-Challenge-10024-SafeZone-Real-time-Video-Analytics-for-Industrial-Safety/assets/73399290/865b6440-1965-4e30-a454-3661f623252b)
+
+<p>
+The admin dashboard also has access to analytics and stats related to the safety of the industrial sites, the graphs of safety-scores, fire-incidents and harmful gas sensor alerts
+</p>
+
+![9](https://github.com/smartinternz02/SBSPS-Challenge-10024-SafeZone-Real-time-Video-Analytics-for-Industrial-Safety/assets/73399290/0fe51a41-3b4c-4ef3-b270-128133c4177b)
+![10](https://github.com/smartinternz02/SBSPS-Challenge-10024-SafeZone-Real-time-Video-Analytics-for-Industrial-Safety/assets/73399290/5803df68-659e-48a5-87ad-c04984eeb181)
+
+## Manager Dashboard
+
+<p>
+  It consists of Factory / Industrial area wide data, i.e. data collected from that particular factory or industrial site is crunched together for the manager of the respective site to observe.
+</p>
+
+![11](https://github.com/smartinternz02/SBSPS-Challenge-10024-SafeZone-Real-time-Video-Analytics-for-Industrial-Safety/assets/73399290/77e50903-8a10-40c2-aaa3-dc26904f91cc)
+![12](https://github.com/smartinternz02/SBSPS-Challenge-10024-SafeZone-Real-time-Video-Analytics-for-Industrial-Safety/assets/73399290/fb3b6d69-d79c-4640-ab2f-8c15c7b78a78)
+
+<p>
+The manager dashboard also has access to analytics and stats related to the safety of the industrial sites, the graphs of safety-scores, fire-incidents and harmful gas sensor alerts
+</p>
+
+![13](https://github.com/smartinternz02/SBSPS-Challenge-10024-SafeZone-Real-time-Video-Analytics-for-Industrial-Safety/assets/73399290/323dff5c-7667-49f3-a014-aad2f411b59e)
+![14](https://github.com/smartinternz02/SBSPS-Challenge-10024-SafeZone-Real-time-Video-Analytics-for-Industrial-Safety/assets/73399290/d5430a2f-691b-4df4-91b3-e22cd05ce662)
+
