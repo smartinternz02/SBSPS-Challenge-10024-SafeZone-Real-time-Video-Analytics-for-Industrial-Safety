@@ -12,6 +12,10 @@ Industrial Safety is essential for promoting worker safety, preventing accidents
 
 The objective of this project is to leverage Deep Learning techniques to monitor live video feeds and provide real-time hazard detection, prompt alerts, and interventions, enhancing industrial safety and preventing accidents in industrial environments.
 
+## Video Demo
+
+<video width="630" height="300" src="[https://user-images.githubusercontent.com/126239/151127893-5c98ba8d-c431-4a25-bb1f-e0b33645a2b6.mp4](https://youtu.be/g59md8sZycY)"></video>
+
 ## Project Structure & Flow
 ![project_flow](https://github.com/smartinternz02/SBSPS-Challenge-10024-SafeZone-Real-time-Video-Analytics-for-Industrial-Safety/assets/73399290/5b316604-3b94-4e1d-88ca-73977cba60c0)
 
@@ -139,5 +143,3 @@ The manager dashboard also has access to analytics and stats related to the safe
 
 ![13](https://github.com/smartinternz02/SBSPS-Challenge-10024-SafeZone-Real-time-Video-Analytics-for-Industrial-Safety/assets/73399290/323dff5c-7667-49f3-a014-aad2f411b59e)
 ![14](https://github.com/smartinternz02/SBSPS-Challenge-10024-SafeZone-Real-time-Video-Analytics-for-Industrial-Safety/assets/73399290/3c2ede23-c98f-4663-b8db-bb943ec00d07)
-
-
