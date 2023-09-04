@@ -8,6 +8,10 @@
 </div>
 Industrial Safety is essential for promoting worker safety, preventing accidents, ensuring compliance, and enhancing overall operational efficiency in industrial environments. This project aims to develop a real-time video analytics tool that enhances industrial safety by detecting and preventing potential hazards and unsafe situations in industrial environments.
 
+## Video Demo
+
+[![SafetyNet](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fyoutu.be%2Fg59md8sZycY)](https://youtu.be/g59md8sZycY)
+
 ## Objective
 
 The objective of this project is to leverage Deep Learning techniques to monitor live video feeds and provide real-time hazard detection, prompt alerts, and interventions, enhancing industrial safety and preventing accidents in industrial environments.
@@ -120,8 +124,9 @@ Recall, in the context of object detection, is another important metric that eva
 The admin dashboard also has access to analytics and stats related to the safety of the industrial sites, the graphs of safety-scores, fire-incidents and harmful gas sensor alerts
 </p>
 
-![9](https://github.com/smartinternz02/SBSPS-Challenge-10024-SafeZone-Real-time-Video-Analytics-for-Industrial-Safety/assets/73399290/0fe51a41-3b4c-4ef3-b270-128133c4177b)
-![10](https://github.com/smartinternz02/SBSPS-Challenge-10024-SafeZone-Real-time-Video-Analytics-for-Industrial-Safety/assets/73399290/26a63df2-6dc9-4de9-bde3-10454d1f7cb7)
+![9](https://github.com/smartinternz02/SBSPS-Challenge-10024-SafeZone-Real-time-Video-Analytics-for-Industrial-Safety/assets/73399290/6ddb803a-e3cf-4d17-93c5-e9364ee8c18e)
+![10](https://github.com/smartinternz02/SBSPS-Challenge-10024-SafeZone-Real-time-Video-Analytics-for-Industrial-Safety/assets/73399290/e6909dc7-9f08-47d7-a653-5ec395d98632)
+
 
 
 ## Manager Dashboard
@@ -137,7 +142,5 @@ The admin dashboard also has access to analytics and stats related to the safety
 The manager dashboard also has access to analytics and stats related to the safety of the industrial sites, the graphs of safety-scores, fire-incidents and harmful gas sensor alerts
 </p>
 
-![13](https://github.com/smartinternz02/SBSPS-Challenge-10024-SafeZone-Real-time-Video-Analytics-for-Industrial-Safety/assets/73399290/323dff5c-7667-49f3-a014-aad2f411b59e)
-![14](https://github.com/smartinternz02/SBSPS-Challenge-10024-SafeZone-Real-time-Video-Analytics-for-Industrial-Safety/assets/73399290/3c2ede23-c98f-4663-b8db-bb943ec00d07)
-
-
+![13](https://github.com/smartinternz02/SBSPS-Challenge-10024-SafeZone-Real-time-Video-Analytics-for-Industrial-Safety/assets/73399290/cbb562f5-fe4c-426e-bd85-f45bfd535dbd)
+![14](https://github.com/smartinternz02/SBSPS-Challenge-10024-SafeZone-Real-time-Video-Analytics-for-Industrial-Safety/assets/73399290/5b8d4e98-29c7-4a1d-8f9f-536ac8ff62d3)
