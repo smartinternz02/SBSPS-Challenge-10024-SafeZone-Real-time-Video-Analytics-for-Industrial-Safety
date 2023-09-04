@@ -121,7 +121,8 @@ The admin dashboard also has access to analytics and stats related to the safety
 </p>
 
 ![9](https://github.com/smartinternz02/SBSPS-Challenge-10024-SafeZone-Real-time-Video-Analytics-for-Industrial-Safety/assets/73399290/0fe51a41-3b4c-4ef3-b270-128133c4177b)
-![10](https://github.com/smartinternz02/SBSPS-Challenge-10024-SafeZone-Real-time-Video-Analytics-for-Industrial-Safety/assets/73399290/5803df68-659e-48a5-87ad-c04984eeb181)
+![10](https://github.com/smartinternz02/SBSPS-Challenge-10024-SafeZone-Real-time-Video-Analytics-for-Industrial-Safety/assets/73399290/26a63df2-6dc9-4de9-bde3-10454d1f7cb7)
+
 
 ## Manager Dashboard
 
@@ -137,5 +138,6 @@ The manager dashboard also has access to analytics and stats related to the safe
 </p>
 
 ![13](https://github.com/smartinternz02/SBSPS-Challenge-10024-SafeZone-Real-time-Video-Analytics-for-Industrial-Safety/assets/73399290/323dff5c-7667-49f3-a014-aad2f411b59e)
-![14](https://github.com/smartinternz02/SBSPS-Challenge-10024-SafeZone-Real-time-Video-Analytics-for-Industrial-Safety/assets/73399290/d5430a2f-691b-4df4-91b3-e22cd05ce662)
+![14](https://github.com/smartinternz02/SBSPS-Challenge-10024-SafeZone-Real-time-Video-Analytics-for-Industrial-Safety/assets/73399290/3c2ede23-c98f-4663-b8db-bb943ec00d07)
+
 
