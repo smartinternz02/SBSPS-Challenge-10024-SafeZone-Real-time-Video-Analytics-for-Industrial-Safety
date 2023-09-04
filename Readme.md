@@ -14,7 +14,7 @@ The objective of this project is to leverage Deep Learning techniques to monitor
 
 ## Video Demo
 
-<video widthhttps://youtu.be/g59md8sZycY="630" height="300" src="[https://user-images.githubusercontent.com/126239/151127893-5c98ba8d-c431-4a25-bb1f-e0b33645a2b6.mp4](https://youtu.be/g59md8sZycY)"></video>
+[![SafetyNet](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fyoutu.be%2Fg59md8sZycY)](https://youtu.be/g59md8sZycY)
 
 ## Project Structure & Flow
 ![project_flow](https://github.com/smartinternz02/SBSPS-Challenge-10024-SafeZone-Real-time-Video-Analytics-for-Industrial-Safety/assets/73399290/5b316604-3b94-4e1d-88ca-73977cba60c0)
