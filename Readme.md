@@ -69,7 +69,11 @@ Follow these steps to get started with the project:
      npm i -S react-scripts
      npm start
      ```
-
+6. Default - Test Credentials for the application
+   ```
+   admin@support.com / 123456
+   manager@support.com / 123456
+   ```
 ## Model statistics
 ### 1. Class labels:
     [Hardhat, Mask, NO-Hardhat, NO-Mask, NO-Safety Vest, Person, Safety Cone,
