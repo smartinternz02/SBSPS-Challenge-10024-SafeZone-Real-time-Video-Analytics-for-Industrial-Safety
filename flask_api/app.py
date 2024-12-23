@@ -615,7 +615,7 @@ def hand_gesture():
         data.update({"timestamp": timestamp_obj.strftime("%d/%m/%Y %H:%M:%S")})
 
         ws.emit("notification", data)
-        send_email(sender_email='coc55228@gmail.com',sender_password='jpdtwuyrdvdovban',receiver_email='divija.kinger@somaiya.edu',subject='Person in Danger!',message=f'A person is in danger at location {camera_data["location"]}. Please check the video at {video_link}')
+        send_email(sender_email='email@gmail.com',sender_password='password',receiver_email='reciever@gmail.com',subject='Person in Danger!',message=f'A person is in danger at location {camera_data["location"]}. Please check the video at {video_link}')
 
         return jsonify({"status": "success"})
     except Exception as e:
@@ -651,7 +651,7 @@ def fire_alert():
         data.update({"timestamp": timestamp_obj.strftime("%d/%m/%Y %H:%M:%S")})
 
         ws.emit("notification", data)
-        send_email(sender_email='coc55228@gmail.com',sender_password='jpdtwuyrdvdovban',receiver_email='divija.kinger@somaiya.edu',subject='Fire Alert!',message=f'There is a fire at location {camera_data["location"]}. Please check the video at {video_link}')
+        send_email(sender_email='email@gmail.com',sender_password='password',receiver_email='reciever@gmail.com',subject='Fire Alert!',message=f'There is a fire at location {camera_data["location"]}. Please check the video at {video_link}')
 
         return jsonify({"status": "success"})
     except Exception as e:
@@ -690,7 +690,7 @@ def read_sensor():
                     )
 
                     ws.emit("notification", data)
-                    send_email(sender_email='coc55228@gmail.com',sender_password='jpdtwuyrdvdovban',receiver_email='divija.kinger@somaiya.edu',subject='Gas Leak!',message=f'Gas leak at location {sensor_data["location"]}')
+                    send_email(sender_email='email@gmail.com',sender_password='password',receiver_email='reciever@gmail.com',subject='Gas Leak!',message=f'Gas leak at location {sensor_data["location"]}')
                     cache.set("sensor-cache", 0)
                 cache.set("sensor-cache", cache.get("sensor-cache") + 1)
         else:
